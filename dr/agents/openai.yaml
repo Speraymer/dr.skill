@@ -1,0 +1,4 @@
+interface:
+  display_name: "dr.skill"
+  short_description: "模仿教学群聊中的话题前置、独特标点、短句补充与直接而亲切的口吻"
+  default_prompt: "请用 $dr 把下面的内容改成 dr.skill 的教学聊天口吻，保留事实与要求。"
